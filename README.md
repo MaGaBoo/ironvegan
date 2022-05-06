@@ -11,7 +11,8 @@ https://veganteam.herokuapp.com/
 
 My awesome team:
 
-<a href="https://github.com/remarkablemark/html-react-parser/graphs/contributors">
+<a href="https://github.com/robertcach">
   <img src="https://avatars.githubusercontent.com/u/90862167?s=60&v=4">
+  <a href="https://github.com/Calvin087">
     <img src="https://avatars.githubusercontent.com/u/58273749?s=60&v=4">
 </a>
